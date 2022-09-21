@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/justi/AndroidStudioProjects/MealerApp/app/src/main/res/layout/home_page.xml" value="0.72" />
+        <entry key="..\:/Users/justi/AndroidStudioProjects/MealerApp/app/src/main/res/layout/fragment_notifications.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/justi/AndroidStudioProjects/MealerApp/app/src/main/res/layout/home_page.xml" value="0.176" />
+        <entry key="..\:/Users/justi/AndroidStudioProjects/MealerApp/app/src/main/res/layout/login_page.xml" value="0.27395833333333336" />
       </map>
     </option>
   </component>
