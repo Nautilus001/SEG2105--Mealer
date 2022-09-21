@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    /* Colour palette generated from Coolors.com */
+    <color name="brandy">#813737</color>
+    <color name="burnt_orange">#C95918</color>
+    <color name="gold_crayola">#E9C990</color>
+    <color name="bright_yellow_crayola">#FCAE1F</color>
+    <color name="olive">#737C1C</color>
 </resources>
